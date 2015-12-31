@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_blue">#ff242424</color>
+	<color name="deep_blue">#ff242424</color>
+	<color name="deep_transparent_twitter_blue">#cc242424</color>
+	<color name="faded_blue">#ff424242</color>
+	<color name="faint_blue">#ff424242</color>
+	<color name="light_blue">#ff424242</color>
+	<color name="link">#ff424242</color>
+	<color name="medium_blue">#ff424242</color>
+	<color name="task_background_blue">#ff424242</color>
+	<color name="twitter_blue">#ff424242</color>
+</resources>

@@ -1,0 +1,13 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jon.twitterblack"
+    android:versionCode="1"
+    android:versionName="1" >
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="21"
+        android:maxSdkVersion="21" />
+    <overlay android:targetPackage="com.twitter.android" android:priority="10"/>
+
+    <meta-data android:name="infoShort" android:value="Instagram Black" />
+    <meta-data android:name="author" android:value="jon" />
+</manifest>
